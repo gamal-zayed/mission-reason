@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+networkx
+tqdm
+
+Next-Phase:
+----------
+torch
+transformers
+datasets
+peft
+trl
+accelerate
