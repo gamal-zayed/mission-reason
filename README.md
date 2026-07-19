@@ -32,6 +32,10 @@ The current Version 0.1 expert policy produces four primary operational decision
 
 Investigating the [Dataset characterization](https://github.com/gamal-zayed/mission-reason/blob/main/figures/Dataset-Characterization.png), the observed action distribution emerges naturally from the expert policy rather than from explicit class balancing. Approximately 45% of scenarios are labeled as Emergency because the policy incorporates hard spacecraft safety constraints that immediately override utility optimization when critical thermal conditions or severely depleted battery levels are detected. Among non-emergency scenarios, Downlink is frequently selected due to the combined influence of memory pressure and available ground communication opportunities, while Observe is intentionally conservative because scientific observations must satisfy a minimum utility threshold after accounting for environmental and resource constraints. Consequently, the benchmark reflects the operational priorities encoded within the expert policy rather than enforcing an artificial class balance.
 
+Recent work such as SPRINT demonstrates the growing need for onboard planning and autonomous replanning in resource-constrained small satellite constellations. MissionReason complements this direction by investigating mission-level expert decision policies suitable for lightweight AI benchmarking.
+
+The goal of MissionReason is not to replace planning algorithms such as SPRINT, but to provide a benchmark for studying how lightweight AI models can approximate expert mission-level decision policies that could eventually interact with onboard planners.
+
 ### Completed
 
 * Structured mission-state representation.
@@ -51,3 +55,12 @@ Investigating the [Dataset characterization](https://github.com/gamal-zayed/miss
 ## Long-Term Vision
 
 MissionReason aims to become an open benchmark for studying mission-level reasoning in future autonomous spacecraft. The long-term objective is to investigate how lightweight artificial intelligence systems can learn expert operational policies while respecting the computational and communication constraints of onboard spacecraft systems.
+
+
+## Research Foundations
+
+[1] Dahl, Chew & Cahoy, "Optimization of SmallSat Constellations and Low Cost Hardware to Utilize Onboard Planning" (SPRINT).
+
+[2] M. Anderson, J. Muesing, K. Cahoy & K. Center, “Ensemble Learning for Autonomous Onboard Satellite Fault Diagnosis with Validation Tool”. 
+
+[3] Shih-Yang Liu, Chien-Yi Wang, Hongxu Yin, Pavlo Molchanov, Yu-Chiang Frank Wang, Kwang-Ting Cheng & Min-Hung Chen, "DoRA: Weight-Decomposed Low-Rank Adaptation"
