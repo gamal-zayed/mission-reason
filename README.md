@@ -27,7 +27,9 @@ MissionReason addresses this challenge by providing:
 ## Current Project Status
 
 **Current Version:** v0.1
+
 The current Version 0.1 expert policy produces four primary operational decisions. Additional mission actions (e.g., Skip, Retask, IncreaseSampling) remain part of the benchmark design and will be incorporated in future policy versions.
+
 ### Completed
 
 * Structured mission-state representation.
