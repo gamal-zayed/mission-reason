@@ -64,3 +64,17 @@ MissionReason aims to become an open benchmark for studying mission-level reason
 [2] M. Anderson, J. Muesing, K. Cahoy & K. Center, “Ensemble Learning for Autonomous Onboard Satellite Fault Diagnosis with Validation Tool”. 
 
 [3] Shih-Yang Liu, Chien-Yi Wang, Hongxu Yin, Pavlo Molchanov, Yu-Chiang Frank Wang, Kwang-Ting Cheng & Min-Hung Chen, "DoRA: Weight-Decomposed Low-Rank Adaptation"
+
+[4] Ronald A. Howard, “Decision Analysis: Applied Decision Theory”
+
+[5] S. Russel and Peter Norvig, “Artificial Intelligence: A Modern Approach”
+
+[6] Edward A. Feigenbaum, “The Art of Artificial Intelligence: Themes and Case Studies of Knowledge Engineering” 
+
+[7] Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen, “LoRA: Low-Rank Adaptation of Large Language Models”
+
+[8] NASA EarthData, https://search.earthdata.nasa.gov/
+
+[9] NASA Earth Observatory products, https://science.nasa.gov/earth/earth-observatory/
+
+[10] NASA Mission Archives, https://www.nasa.gov/general/archives/
