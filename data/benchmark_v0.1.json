@@ -1,5 +1,11 @@
 [
     {
+  "telemetry_health_status": "Degraded (Thermal Fault K_H detected by Onboard Ensemble)",
+  "battery_level": 75,
+  "cloud_probability": 71
+    },
+    
+    {
         "scenario_id": "MR-2026-001",
         "state": {
             "mission_type": "Agriculture",
