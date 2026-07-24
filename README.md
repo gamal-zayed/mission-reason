@@ -58,7 +58,7 @@ MissionReason aims to become an open benchmark for studying mission-level reason
 
 ## Limitations and Future Work
 
-MissionReason right now is single-satellite, single-snapshot --> 
+MissionReason right now is single-satellite, single-snapshot --> Federated Learning across a satellite constellation.
 
 
 ## Research Foundations
