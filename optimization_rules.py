@@ -86,7 +86,11 @@ def evaluate_expert_policy(state: dict) -> tuple[str, str]:
     # Action B: Downlink Utility
     # Driven heavily by buffer pressure (memory_usage) and having active ground_contact
     memory_pressure = (state["memory_usage"] / 100.0) * 40.0
-    ground_contact_bonus = 20.0 if state["ground_contact"] > 0 else -50.0
+    #ground_contact_bonus = 20.0 if state["ground_contact"] > 0 else -50.0
+    if state["ground_contact"] > 0:
+        ground_contact_bonus = min(state["ground_contact"] / 15.0, 1.0) * 20.0
+    else:
+        ground_contact_bonus = -50.0
     downlink_utility = memory_pressure + ground_contact_bonus + (battery_score * 0.5)
 
     # Action C: Delay Utility
