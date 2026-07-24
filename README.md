@@ -1,5 +1,9 @@
 # MissionReason
 
+## Core Research Hypothesis:
+
+“Can mission-level operational decision reasoning be formalized into a reproducible, physics-informed benchmark that evaluates spacecraft engineering trade-offs independently of any specific AI architecture?”
+
 ## Towards Resource-Constrained Language Models for Onboard Mission Decision Support in Autonomous Spacecraft
 
 MissionReason is an open research project that investigates **onboard mission decision support** for **resource-constrained autonomous spacecraft**.
