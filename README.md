@@ -78,3 +78,5 @@ MissionReason aims to become an open benchmark for studying mission-level reason
 [9] NASA Earth Observatory products, https://science.nasa.gov/earth/earth-observatory/
 
 [10] NASA Mission Archives, https://www.nasa.gov/general/archives/
+
+[11] Herrmann, A., Stephenson, M. A., & Schaub, H. (2024). **Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations**. *Journal of Spacecraft and Rockets*, 61(1), 114–132. [https://doi.org/10.2514/1.A35736](https://doi.org/10.2514/1.A35736)
