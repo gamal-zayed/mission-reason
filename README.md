@@ -56,6 +56,10 @@ The goal of MissionReason is not to replace planning algorithms such as SPRINT, 
 
 MissionReason aims to become an open benchmark for studying mission-level reasoning in future autonomous spacecraft. The long-term objective is to investigate how lightweight artificial intelligence systems can learn expert operational policies while respecting the computational and communication constraints of onboard spacecraft systems.
 
+## Limitations and Future Work
+
+MissionReason right now is single-satellite, single-snapshot --> 
+
 
 ## Research Foundations
 
