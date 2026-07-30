@@ -16,7 +16,7 @@ The current version introduces an initial expert-policy framework that models mi
 
 Future autonomous spacecraft are expected to perform increasingly sophisticated onboard decision-making while operating under strict limitations in computation, power, memory, and communication opportunities.
 
-Although public datasets describing Earth observation, spacecraft telemetry, and space weather are widely available, publicly available datasets that directly associate spacecraft operational states with expert mission decisions remain limited. This makes it difficult to systematically investigate onboard mission reasoning using modern artificial intelligence methods.
+Although public datasets describing Earth observation, spacecraft telemetry, and space weather are widely available, publicly available datasets that directly associate spacecraft operational states with expert mission decisions remain limited. This makes it difficult to investigate onboard mission reasoning using modern artificial intelligence methods systematically.
 
 MissionReason addresses this challenge by providing:
 
