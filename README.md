@@ -1,6 +1,6 @@
 # MissionReason
 
-## Core Research Hypothesis:
+## Core Research Hypothesis: 
  
 “Can mission-level operational decision reasoning be formalized into a reproducible, physics-informed benchmark that evaluates spacecraft engineering trade-offs independently of any specific AI architecture?” Moreover, it undergoes explainability? 
 
