@@ -1,5 +1,5 @@
 # MissionReason
-
+MissionReason investigates the decision-making layer identified as an open direction following onboard fault diagnosis.
 ## Core Research Hypothesis: 
  
 “Can mission-level operational decision reasoning be formalized into a reproducible, physics-informed benchmark that evaluates spacecraft engineering trade-offs independently of any specific AI architecture?” Moreover, it undergoes explainability? 
