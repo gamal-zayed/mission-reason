@@ -13,7 +13,7 @@ MissionReason is an open research project that investigates **onboard mission de
 
 The current version introduces an initial expert-policy framework that models mission-level operational reasoning using structured spacecraft mission states. Rather than focusing on perception tasks such as image classification or object detection, MissionReason explores how expert operational policies can be represented as structured decision-making problems, providing a foundation for evaluating lightweight language models - as the direct next step - and other resource-efficient artificial intelligence techniques for future onboard autonomy.
 
----
+--- 
 
 ## Motivation
 
