@@ -1,4 +1,4 @@
-# MissionReason  
+# MissionReason   
 MissionReason is an empirical framework for evaluating lightweight learned mission-level decision policies downstream of spacecraft health/fault diagnosis. 
 
 MissionReason investigates the decision-making layer identified as an open direction following onboard fault diagnosis.
