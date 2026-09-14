@@ -29,7 +29,7 @@ MissionReason addresses this challenge by providing:
 * Interpretable decision explanations.
 * A reproducible framework for evaluating lightweight AI methods for onboard mission decision support.
 
----
+--- 
 
 ## Current Project Status
 
