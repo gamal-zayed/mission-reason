@@ -30,7 +30,7 @@ MissionReason addresses this challenge by providing:
 * A reproducible framework for evaluating lightweight AI methods for onboard mission decision support.
 
 --- 
-
+ 
 ## Current Project Status
 
 **Current Version:** v0.1
