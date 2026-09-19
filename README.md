@@ -15,7 +15,7 @@ The current version introduces an initial expert-policy framework that models mi
  
 --- 
 
-## Motivation
+## Motivation 
 
 Future autonomous spacecraft are expected to perform increasingly sophisticated onboard decision-making while operating under strict limitations in computation, power, memory, and communication opportunities.
 
