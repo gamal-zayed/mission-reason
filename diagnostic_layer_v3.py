@@ -1,7 +1,7 @@
 """
 diagnostic_layer_v3.py
 ========================
-
+ 
 Extends diagnostic_layer.py with a simulated classifier CONFIDENCE score per
 diagnosis, so the decision engine can distinguish "diagnosed with high
 confidence" from "diagnosed but shaky" -- instead of treating every
