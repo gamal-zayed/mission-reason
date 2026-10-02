@@ -3,7 +3,7 @@
 evaluate_missionreason.py
 ============================
  
-Two modes:
+Two modes:  
 
   --mode dataset   Analyze the generated dataset itself (works right now,
                     no trained model needed). Produces a per-fault-code
