@@ -5,7 +5,7 @@ MissionReason investigates the decision-making layer identified as an open direc
     
 ## Core Research Hypothesis: 
      
-“Can mission-level operational decision reasoning be formalized into a reproducible, physics-informed benchmark that evaluates spacecraft engineering trade-offs independently of any specific AI architecture?” Moreover, it undergoes explainability? 
+“Can mission-level operational decision reasoning be formalized into a reproducible, physics-informed benchmark that evaluates spacecraft engineering trade-offs independently of any specific AI architecture?” Moreover, it undergoes explainability after it uses AI just to initial our light-weight model training.
   
 ## Towards Resource-Constrained Language Models for Onboard Mission Decision Support in Autonomous Spacecraft
 
