@@ -34,7 +34,7 @@ import diagnostic_layer_corrected as base
 
 
 # Re-export the base module's taxonomy/sampling so callers only need one import.
-FAULT_TAXONOMY = base.FAULT_TAXONOMY
+FAULT_TAXONOMY = base.FAULT_TAXONOMY 
 sample_diagnosis = base.sample_diagnosis
 is_critical_fault = base.is_critical_fault
 is_thermal_fault = base.is_thermal_fault
